@@ -21,5 +21,5 @@ Project contains code to:
   * client folder - contains client code 
   * code folders - contains client code to test synchronization
 ## Reason
-  Developed due to lack of working/complete server and client samples on the net.
-  
+  1. Developed due to lack of working/complete server and client samples on the net.
+  1. Poor man's implementation of firebase without the fees
