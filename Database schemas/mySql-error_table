@@ -1,0 +1,8 @@
+CREATE TABLE `error_table` (
+  `id` int(11) NOT NULL,
+  `date` bigint(20) NOT NULL,
+  `error_message` varchar(255) NOT NULL,
+  `line_number` int(11) NOT NULL,
+  `module` varchar(255) NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
