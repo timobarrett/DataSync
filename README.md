@@ -23,3 +23,10 @@ Project contains code to:
 ## Reason
   1. Developed due to lack of working/complete server and client samples on the net.
   1. Poor man's implementation of firebase without the fees
+  1. Error entries removed from client if entries uploaded to server
+ ## Updates
+  1. Modified to support both windows and linux servers
+  1. tested and verified that enough space has been allocated for error message content
+ ## Planned
+  1. add support for sending emails when database updated to dev team
+  1. add support for running as war based web service with increased connection count support
