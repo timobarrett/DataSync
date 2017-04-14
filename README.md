@@ -29,4 +29,7 @@ Project contains code to:
   1. tested and verified that enough space has been allocated for error message content
  ## Planned
   1. add support for sending emails when database updated to dev team
+   * //localhost:8080/error_table/getAll - crude plain text dump of error table records to browser screen
+   * //localhost:8080/error_table/send-mail - sends email containing error table entries.
   1. add support for running as war based web service with increased connection count support
+  1. override for whitelabel error displays
